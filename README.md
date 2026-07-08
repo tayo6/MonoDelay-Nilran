@@ -1,4 +1,4 @@
-# Hadenian MonoDelay
+# Niran MonoDelay
 
 A JUCE 7.0.12 audio plugin (VST3, Windows) that recreates the layout and
 control set of a classic dark-panel mono delay, finished in a white/dirty-white
